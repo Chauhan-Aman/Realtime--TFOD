@@ -19,11 +19,10 @@ Realtime-TFOD is a system that performs real-time gesture detection and classifi
 
 ## Demo
 
-![GestureDetection](https://github.com/user-attachments/assets/c77bfeff-aab2-4ea0-a9cc-7fd940061309)
+![GestureDetection](https://github.com/user-attachments/assets/17a3d3c6-cd4f-4140-96c8-5074dce61060)
 
 
-https://github.com/user-attachments/assets/cceeb446-56a0-41b1-983e-124890ad4b22
-
+https://github.com/user-attachments/assets/c95d2bac-58d4-45d3-87df-5a72715ec65d
 
 ## How to Run This Project
 
