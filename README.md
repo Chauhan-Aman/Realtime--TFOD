@@ -49,4 +49,4 @@ Run the Script Image Collection.ipynb
 Run the Script Training and Detection.ipynb
 ```
 
-This setup will allow you to run the Human Emotion Detection system locally.
+This setup will allow you to run the Gesture Detection system locally.
