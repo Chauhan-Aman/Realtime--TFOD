@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/c95d2bac-58d4-45d3-87df-5a72715ec65d
 
 1. Clone the repository:
 ```
-git clone https://github.com/Chauhan-Aman/realtime-tfod.git
+git clone https://github.com/Chauhan-Aman/Realtime--TFOD.git
 cd realtime-tfod
 ```
 2. Set up a virtual environment:
