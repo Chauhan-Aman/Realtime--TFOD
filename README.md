@@ -16,6 +16,7 @@ Realtime-TFOD is a system that performs real-time gesture detection and classifi
 - TensorFlow
 - OpenCV
 - Python
+- pyqt5
 
 ## Demo
 
